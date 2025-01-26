@@ -1,5 +1,8 @@
 # 🛒🎮📽️ TiendaVideojuegosPeliculas 
 
+![Build Status](https://travis-ci.org/mariodiazzz11/TiendaVideojuegosPeliculas.svg?branch=main)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 **TiendaVideojuegosPeliculas** es una simulación de tienda en Java que permite ver todos los videojuegos y películas disponibles en un catálogo. Este proyecto es solo para la consola. ¡Podrás ver los productos disponibles! 🕹️
 
 ## 💡 Características
